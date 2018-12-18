@@ -1,6 +1,6 @@
 {
   "name": "news-bot",
-  "version": "1.0-beta",
+  "version": "0.0.2",
   "description": "This bot belongs to Karlo",
   "main": "index.js",
   "scripts": {
