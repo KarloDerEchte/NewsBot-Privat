@@ -1,6 +1,6 @@
 {
   "name": "karlo-bot",
-  "version": "0.0.1-beta",
+  "version": "0.0.1",
   "description": "This bot belongs to the TDM-Network",
   "main": "index.js",
   "scripts": {
